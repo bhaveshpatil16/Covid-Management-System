@@ -22,7 +22,7 @@ class BoothIndex extends Component {
             statusdiv: false,
             data: [],
             image: true
-
+                
 
         }
         this.saveUser = this.saveUser.bind(this);

@@ -1,0 +1,57 @@
+ .create {
+  
+    background-color:rgb(128, 128, 128);
+    text-align: left;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+
+} 
+.containerBooth{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:rgb(164, 222, 245);
+    padding-top: 20px;
+    padding-right:20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+}
+
+.heading{
+    color: white;
+    text-align:center; 
+     margin-bottom: auto;
+     background-color: rgba(21, 22, 24, 0.856); 
+}
+.btn:hover {
+    background-color: rgb(73, 87, 216);
+  }
+    .navbar {
+      margin-right: auto;
+      
+    }
+    .btn {
+        background-color: rgb(66, 68, 70);
+        border: none;
+        color: white;
+        padding: 12px 17px;
+        font-size: 14px;
+        cursor: pointer;
+      }
+
+    .booth_div{
+      width: 60%;
+      margin-bottom: 20px;
+      margin-left: 80px;
+    }
+    .booth_div2{
+      width: 60%;
+      margin-bottom: 20px;
+      margin-left: 80px;
+      margin-top: 10px;
+    }
+    .booth_div1{
+    
+      margin-left: 400px
+    }

@@ -1,0 +1,212 @@
+.regist{
+  padding-left: 50px ;
+  padding-top:50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+  background-color: grey;
+}  
+.heading{
+  color: white;
+  text-align:center; 
+  margin-bottom: auto;
+  background-color: rgba(21, 22, 24, 0.856); 
+}
+.btn:hover {
+  background-color: rgb(64, 75, 224);
+}
+.navbar {
+  margin-right: auto;
+      
+}
+.btn {
+  background-color: rgb(66, 68, 70);
+  border: none;
+  color: white;
+  padding: 12px 17px;
+  font-size: 14px;
+  cursor: pointer;
+ }
+
+.pd{
+  background-color: black;
+  color: white;
+}
+.age{
+  text-align: left;
+}
+
+.age_div{
+  width: 50%;
+  display:flex;
+
+}
+
+.birth{
+  
+  text-align: left;
+  display:flex;
+}
+.birth_div{
+  width: 80%;
+  display:flex;
+}
+
+.photo{
+  padding-left: 80px;
+  margin-left: 30px;
+}
+
+.image{
+  padding-top: 50px;
+}
+.mb-1{
+  padding-top: 10px;
+  padding-left:300px ;
+}
+
+.gender_div{
+  width: 30%;
+  display: inline;
+  text-align: left;
+
+}
+
+.cate{
+  text-align: left;
+}
+.cate_div{
+  width:37%;
+}
+
+.formblood{
+  text-align:left;
+  padding-left:80px ;
+}
+
+.blood_div{
+  display: flex;
+  width: 50%;
+  margin-bottom: 80px;
+  
+}
+
+.disease{
+  
+  text-align: left;
+  padding-left: 40px;
+  margin-left: 30px;
+
+}
+.dis_div{
+  margin-left: 15px;
+}
+.dis{
+  width: 50%;
+}
+
+.corona{
+  text-align: center;
+  display: inline;
+  
+
+}
+
+.adhar{
+  width: 70%;
+  display:inline-flexbox;
+
+}
+
+.select_div{
+    width: 250px;
+    padding-left:10px;
+}
+
+.sel_div{
+  width: 320px;
+  padding-left: 21px;
+}
+
+.check{
+  display:flex;
+  padding-top: 20px;
+}
+.modera{
+  font-size: 30px;
+  display: flex;
+  margin-left:10px;
+  
+  
+}
+input[type=radio] {
+  border: 0px;
+  width:2%;
+  height: 1em;
+  margin-right:10px;
+}
+
+.pdform{
+    padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+height:450px;
+padding-right: 40px;
+background-color: #fab4f3;
+color: rgb(22, 15, 15);
+}
+
+.Adform{
+  padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+padding-right: 40px;
+background-color:  #fab4f3;
+color: rgb(17, 16, 16);
+}
+
+.Cdform{
+  padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+padding-right: 40px;
+background-color: #fab4f3;
+color: rgb(19, 12, 12);
+}
+
+.Mdform{
+  padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+padding-right: 40px;
+background-color: #fab4f3;
+color: rgb(15, 9, 9);
+height:300px;
+}
+
+.Kdform{
+  padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+padding-right: 40px;
+background-color: #fab4f3;
+color: rgb(20, 12, 12);
+height: 300px;
+}
+
+.Bdform{
+  padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+padding-right: 40px;
+background-color:  #fab4f3;
+color: rgb(12, 8, 8);
+}
+
+.Vdform{
+  padding-left: 40px ;
+padding-top:40px;
+padding-bottom: 40px;
+padding-right: 40px;
+background-color:  #fab4f3;
+color: rgb(15, 10, 10);
+}

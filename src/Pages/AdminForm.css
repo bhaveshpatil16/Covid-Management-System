@@ -1,0 +1,13 @@
+.user-adminform{
+    background-color: rgb(224, 224, 224) !important;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+   
+}.btnadmin {
+    background-color: rgb(66, 68, 70);
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    color:#f5f2f2;
+    padding: 10px 4px;
+    
+    
+    
+}

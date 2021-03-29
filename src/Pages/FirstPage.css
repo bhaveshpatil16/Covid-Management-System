@@ -1,0 +1,80 @@
+.heading{
+     color: white;
+     text-align:center;
+      background-color: rgba(21, 22, 24, 0.856); 
+      margin-bottom: auto;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .icon {
+    padding: 10px;
+    background: rgb(45, 46, 46);
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  
+    .button {
+    border: none;
+    padding: 10px 40px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  .button:hover{
+    background-color: rgb(0, 0, 0);
+  }
+    .btn {
+    background-color: rgb(66, 68, 70);
+    border: none;
+    color: white;
+    padding: 12px 17px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: rgb(64, 75, 224);
+  }
+    .navbar {
+      margin-right: auto;
+      
+    }
+  
+  
+    .loginform {
+      margin-bottom: 90px;
+      margin-right: 60px;
+      background-color: rgb(224, 224, 224);
+      padding-top: 60px;
+      padding-right: 100px;
+      padding-bottom: 50px;
+      padding-left: 100px;
+    }
+  
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  
+    }
+
+    .htag_div {
+      text-align:center; 
+      background-color: chartreuse;
+    }
+
+   

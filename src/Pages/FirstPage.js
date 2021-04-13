@@ -16,7 +16,7 @@ class FirstPage extends Component {
             boothlogin: false,
             adminlogin: false,
             userlogin: true,
-            data: []
+            data: [] 
 
         }
         //this.AdminLogin = this.AdminLogin.bind(this);
